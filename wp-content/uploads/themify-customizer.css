@@ -1,0 +1,45 @@
+/* Themify Customize Styling */
+#footer .back-top.back-top-float, .full-section-scrolling #footerwrap .back-top .arrow-up a, .footer-horizontal-left #footerwrap .back-top .arrow-up a, .footer-horizontal-right #footerwrap .back-top .arrow-up a, .footer-left-col #footerwrap .back-top .arrow-up a, .footer-right-col #footerwrap .back-top .arrow-up a, #footer .back-top .arrow-up a {	background: none;
+	background-color: #37adb3; 
+}
+
+/* Themify Custom CSS */
+.module_row_3 .module_column_1.tb_83_column.module_column {
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    box-shadow: 5px 5px 12px #434141;
+}
+.themify_builder_active.builder-is-touch .themify_builder_module_front_overlay {
+    display: block;
+    box-shadow: 5px 5px 11px #595757;
+}
+.module-slider.slider-caption-overlay .slide-image img {
+    width: 100%;
+    height: 95vh;
+}
+.footer-text {
+    font-style: italic;
+    font-size: .7em;
+    letter-spacing: .055em;
+    line-height: 1.65em;
+    margin-bottom: -120px;
+}
+.two{
+	display:none;
+}
+div.pdfemb-viewer {
+    overflow: hidden;
+    line-height: 1;
+    padding: 0px;
+    border: 1px solid black;
+    position: relative;
+    text-align: left;
+    direction: ltr;
+    background-color: lightGrey;
+    display: flex !important;
+    margin: auto !important;
+}
+.header-icons, #menu-icon-close {
+    float: right;
+}
